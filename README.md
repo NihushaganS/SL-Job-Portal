@@ -16,4 +16,12 @@ why we are super excited to introduce our project: a brand-new job portal. We ar
 create something that's not just another job site, but a game-changer for both job seekers and
 employers.
 Our project is all about helping people navigate their career paths with confidence and
-connecting employers with the talent they need.
+connecting employers with the talent they need. <br>
+
+<b>Background</b>
+<br>
+We decided to work on this project because we've seen firsthand how frustrating it can be to
+search for jobs online. The existing platforms often feel outdated and clunky, making it hard to
+find relevant opportunities. We wanted to change that by building a modern, user-friendly app
+that addresses the needs of both job seekers and employers.
+<br>
